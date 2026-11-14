@@ -5,7 +5,7 @@ A Python-based SSH Failed Login Detection Tool
 LoginGuard is a cybersecurity tool written in Python that analyzes SSH authentication logs to detect suspicious login activity.
 
 Features
-
+- Supports only IPv4 address detection 
 - Reads SSH authentication log files.
 - Detects failed login attempts.
 - Counts failed attempts by IP address.
